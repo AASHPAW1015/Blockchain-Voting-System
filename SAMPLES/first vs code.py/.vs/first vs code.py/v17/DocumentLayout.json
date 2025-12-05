@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASHU\\COMPSCI PROJECT\\SAMPLES\\first vs code.py\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1354FE2-BF97-442B-B4D2-2730AC554C1B}|first vs code.py\\first vs code.py.pyproj|D:\\ASHU\\COMPSCI PROJECT\\SAMPLES\\first vs code.py\\first vs code.py\\first_vs_code.py.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1354FE2-BF97-442B-B4D2-2730AC554C1B}|first vs code.py\\first vs code.py.pyproj|solutionrelative:first vs code.py\\first_vs_code.py.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "first_vs_code.py.py",
+              "DocumentMoniker": "D:\\ASHU\\COMPSCI PROJECT\\SAMPLES\\first vs code.py\\first vs code.py\\first_vs_code.py.py",
+              "RelativeDocumentMoniker": "first vs code.py\\first_vs_code.py.py",
+              "ToolTip": "D:\\ASHU\\COMPSCI PROJECT\\SAMPLES\\first vs code.py\\first vs code.py\\first_vs_code.py.py",
+              "RelativeToolTip": "first vs code.py\\first_vs_code.py.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEbSURBVDhPrZMhj8JAEIVfL5tcBbICuWJFRUVFf8Bq\u002BkOQCAQSuRJcTSWCP3DpD6jBIdtkxcqVCAQIknfm4K4USIB7yTOTvG8yk5ngdBwRL0p8fgE/gJd8Oo74cU19Vh2Acw7OOdR1jclkAgAQQiDPc1RVhaZpUBQFoii6ZDoAKSXW6zXatsVyuYTWGsYYrFYrbDYblGWJLMsghPgN/d0BSWqtGccxD4cDx\u002BMxd7sdF4tFb/7zDnoA7z33\u002Bz299wzDkN57zmazXvguYDqdUmtNIQQB0BhDay3TNKVSivP5nIPB4D5AStnpMhwOud1ueZa1lkqp2wAp5aXztZMkYZIknVoP8Kz//5BI3vQjdQBBENz0I709QvDOOwPAN6iaAPhuZ1ByAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-07-06T03:54:17.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

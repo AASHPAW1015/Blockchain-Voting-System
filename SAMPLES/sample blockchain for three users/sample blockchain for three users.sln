@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sample blockchain for three users", "sample blockchain for three users\sample blockchain for three users.pyproj", "{BF0ED16F-FC7A-4675-8D42-5A5274C327D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0ED16F-FC7A-4675-8D42-5A5274C327D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0ED16F-FC7A-4675-8D42-5A5274C327D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C681CA8-F5F2-4D7A-9BA9-275A46DB8E7C}
+	EndGlobalSection
+EndGlobal
